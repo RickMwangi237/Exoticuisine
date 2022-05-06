@@ -9,3 +9,21 @@ p{
  
 .h1,
 .h2{color:#ffffff; font-weight: bold;}
+
+
+#recipes{
+    background-color: red;
+}
+
+.button{
+    color:#ffffff
+}
+
+#h2{
+    background-color: yellow;
+}
+
+.blue,
+.black{
+    color: blue;
+}
