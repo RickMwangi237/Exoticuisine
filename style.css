@@ -1,3 +1,11 @@
 html{
     background-color: black;
 }
+/*this can also be applied by *{bacground-color: black:} the universal element selector makes it so that all the elements present have a black background */
+
+p{
+    color: #ffffff; font-family: Arial, Helvetica, Georgia, 'Times New Roman', Times, serif sans-serif;
+}
+ 
+.h1,
+.h2{color:#ffffff; font-weight: bold;}
